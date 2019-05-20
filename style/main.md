@@ -172,5 +172,5 @@ If you use IntelliJ, you can tell it to do this with:
 ### IntellJ
 I don't personally use IntelliJ, I write all my scala in vim. IntelliJ is by far the most used
 editor for scala, though, so I have acquired an IntelliJ config which applies a lot of these
-rules: [IntelliJ Config](resources/intellij-style.xml). Note that the import ordering will need to
-be edited to set the third block to your own project rather than to `com.example`.
+rules: [IntelliJ Config](../resources/intellij-style.xml). Note that the import ordering will need
+to be edited to set the third block to your own project rather than to `com.example`.
