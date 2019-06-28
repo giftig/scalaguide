@@ -169,7 +169,7 @@ If you use IntelliJ, you can tell it to do this with:
 <option name="USE_SCALADOC2_FORMATTING" value="false"/>
 ```
 
-## Coding practises
+## Coding practices
 
 ### Option and monad handling
 Remember that options, and other monads, are intended to be handled functionally, as if they were
